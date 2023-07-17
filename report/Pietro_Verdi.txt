@@ -1,0 +1,4 @@
+Cliente: Pietro Verdi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+07/01/2022     356777         Giacomino      15.0           
+

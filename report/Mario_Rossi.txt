@@ -1,0 +1,6 @@
+Cliente: Mario Rossi 
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+01/03/2023     345432         Luna           50.0           
+03/01/2022     455555         Billy          20.0           
+04/01/2022     456666         Pluto          100.0          
+

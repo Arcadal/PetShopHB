@@ -1,0 +1,4 @@
+Cliente: Michele Bianchi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+12/12/2023     027562         Ciro           300.0          
+

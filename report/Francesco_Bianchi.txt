@@ -1,0 +1,5 @@
+Cliente: Francesco Bianchi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+05/01/2022     233344         Carmelo        45.0           
+06/01/2022     233345         Costantin      10.0           
+

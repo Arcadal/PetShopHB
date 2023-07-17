@@ -1,0 +1,19 @@
+Data_Acquisto  Animale          Matricola        Nome_Cliente        Cellulare        
+01/03/2023     Luna             345432           Mario Rossi          33498756         
+03/01/2022     Billy            455555           Mario Rossi          33498756         
+04/01/2022     Pluto            456666           Mario Rossi          33498756         
+05/01/2022     Carmelo          233344           Francesco Bianchi    33500099         
+06/01/2022     Costantin        233345           Francesco Bianchi    33500099         
+07/01/2022     Giacomino        356777           Pietro Verdi         33356777         
+08/01/2022     Stella           546777           Giorgio Rossi        33467788         
+12/06/2023     Peppino          345258           Guido Curradi        1234528          
+12/07/2023     Max              348674           Mirko Pardo          12348674         
+12/10/2023     Nerone           837482           Luca Verdi           12345678         
+12/12/2023     Ciro             027562           Michele Bianchi      12345136         
+13/12/2023     Bob              826596           Mario Viola          12345204         
+14/02/2023     Franco           947252           Peppino Rossi        12345017         
+14/08/2023     Briciola         528404           Peppino Rossi        12345017         
+14/09/2023     Hummy            123456           Luca Verdi           12345678         
+19/01/2022     Luna             345439           Giorgio Rossi        33467788         
+24/07/2023     Biscotto         231974           Luca Verdi           12345678         
+31/12/2023     Cupcake          586346           Gennaro Esposito     12345678         

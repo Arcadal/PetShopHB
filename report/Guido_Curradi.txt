@@ -1,0 +1,4 @@
+Cliente: Guido Curradi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+12/06/2023     345258         Peppino        250.0          
+

@@ -1,0 +1,4 @@
+Cliente: Mirko Pardo
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+12/07/2023     348674         Max            200.0          
+

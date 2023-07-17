@@ -1,0 +1,51 @@
+Cliente: Mario Rossi 
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+01/03/2023     345432         Luna           50.0           
+03/01/2022     455555         Billy          20.0           
+04/01/2022     456666         Pluto          100.0          
+
+Cliente: Francesco Bianchi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+05/01/2022     233344         Carmelo        45.0           
+06/01/2022     233345         Costantin      10.0           
+
+Cliente: Pietro Verdi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+07/01/2022     356777         Giacomino      15.0           
+
+Cliente: Giorgio Rossi 
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+08/01/2022     546777         Stella         65.0           
+19/01/2022     345439         Luna           50.0           
+
+Cliente: Mirko Pardo
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+12/07/2023     348674         Max            200.0          
+
+Cliente: Guido Curradi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+12/06/2023     345258         Peppino        250.0          
+
+Cliente: Mario Viola
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+13/12/2023     826596         Bob            300.0          
+
+Cliente: Michele Bianchi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+12/12/2023     027562         Ciro           300.0          
+
+Cliente: Peppino Rossi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+14/08/2023     528404         Briciola       300.0          
+14/02/2023     947252         Franco         150.0          
+
+Cliente: Luca Verdi
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+14/09/2023     123456         Hummy          240.0          
+24/07/2023     231974         Biscotto       250.0          
+12/10/2023     837482         Nerone         140.0          
+
+Cliente: Gennaro Esposito
+Data_Acquisto  Matricola      Nome           Prezzo di Vendita
+31/12/2023     586346         Cupcake        175.0          
+
