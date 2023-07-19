@@ -7,6 +7,7 @@ public class Main {
 
 	public static void main(String[] args) throws CsvValidationException {
 		Metodi metodo = new Metodi();
+		metodo.log();
 		metodo.inizializza();
 		
 		metodo.inserisci();

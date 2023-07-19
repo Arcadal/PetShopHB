@@ -17,7 +17,7 @@
 		<!-- Set Driver Name -->
 		<property name = "hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
 
-		<property name = "hibernate.show_sql">true</property>
+		<property name = "hibernate.show_sql">false</property>
 		
 		<property name="hbm2ddl.auto">update</property>
 		
@@ -25,7 +25,6 @@
 		
 		<mapping class = "it.betacom.model.Animale"></mapping>
 		<mapping class = "it.betacom.model.Cliente"></mapping>
-		
 
 	</session-factory>
 </hibernate-configuration>

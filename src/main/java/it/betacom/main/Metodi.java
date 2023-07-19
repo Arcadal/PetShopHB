@@ -8,6 +8,9 @@ import java.io.PrintWriter;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.LogManager;
+import java.util.logging.Logger;
 
 import org.apache.commons.lang3.StringUtils;
 import org.hibernate.Session;
@@ -26,12 +29,19 @@ public class Metodi {
 	private SessionFactory sf;
 	private Session session;
 
+	public void log(){
+		LogManager logManager = LogManager.getLogManager();
+		  Logger logger = logManager.getLogger("");
+		  logger.setLevel(Level.OFF); //could be Level.OFF
+	}
+	
 	
 	//------------------------INIZIALIZZAZIONE E CHIUSURA DELLA CONNESSIONE------------------------
 	public void inizializza() {
 		config.configure("hibernate.cfg.xml");
 		sf = config.buildSessionFactory();
 		session = sf.openSession();
+		
 	}
 
 	public void chiusura() {
